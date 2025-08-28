@@ -1,24 +1,26 @@
-# Привіт! 👋 Мене звуть Yuri.
+# Hi there! 👋 My name is Yuri.
 
-🎯 **Про мене**  
-- 🔭 Працюю над [проєктом X](#)  
-- 🌱 Вивчаю [технологію Y]  
-- 💬 Запитуйте про [основні навички]  
-- 📫 Як зі мною зв'язатися: [email@example.com](mailto:email@example.com)  
-- 😄 Хобі: [наприклад, програмування, подорожі]  
+🎯 **About Me**  
+- 🔭 Currently working on [Project X](#)  
+- 🌱 Learning [Technology Y]  
+- 💬 Ask me about **React, Next.js, TypeScript, Tailwind, Redux**  
+- 📫 Reach me at: [email@example.com](mailto:email@example.com)  
+- 😄 Hobbies: coding, traveling, exploring new tech  
 
-📊 **Статистика GitHub:**  
-![Статистика](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)  
+📊 **GitHub Stats:**  
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)  
 
-📌 **Технології:**  
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript)  
+📌 **Tech Stack:**  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react)  
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=next.js)  
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css)  
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux)  
 
-💡 **Цікаві проєкти:**  
-- 🛠 [Мій проєкт 1](#)  
-- 🎮 [Мій проєкт 2](#)
-  
-![Активність](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react)
+💡 **Highlighted Projects:**  
+- 🛠 [My Project 1](#)  
+- 🎮 [My Project 2](#)  
 
-⚡ **Факт про мене:** Я обожнюю писати код! 🚀  
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react)
+
+⚡ **Fun fact:** I love writing clean code and building awesome UIs! 🚀  
