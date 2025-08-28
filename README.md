@@ -4,7 +4,7 @@
 - Frontend Developer passionate about building modern, responsive web applications  
 - Currently focusing on **React, Next.js, TypeScript, Tailwind CSS, Redux**  
 - Open to collaboration and interesting projects  
-- Contact: [email@example.com](mailto:email@example.com)  
+- Contact: [urabuchko10@gmail.com](mailto:urabuchko10@gmail.com)  
 
 ---
 
@@ -14,12 +14,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
 
 ---
 
