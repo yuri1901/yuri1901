@@ -1,4 +1,4 @@
-# Hi, I'm Yura 👋
+# Hi, I'm Yura Buchko👋
 
 ## 🚀 About Me  
 - Frontend Developer passionate about building modern, responsive web applications  
