@@ -14,6 +14,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)  
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)  
+![Zustand](https://img.shields.io/badge/Zustand-%2320232a.svg?style=flat&logo=react&logoColor=white)  
+
 
 ---
 
