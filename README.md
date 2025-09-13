@@ -23,5 +23,5 @@
 ---
 
 ## 📌 Featured Projects  
-- [Project 1](#) — description of what it does  
-- [Project 2](#) — description of what it does  
+- [CocktailsHub](https://github.com/yuri1901/CocktailsHub) — Cocktails application 
+
