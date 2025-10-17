@@ -1,4 +1,4 @@
-# Hi, I'm Yura Buchko👋
+# Hi, I'm Yura Buchko 👋  
 
 ## 🚀 About Me  
 - Frontend Developer passionate about building modern, responsive web applications  
@@ -10,18 +10,43 @@
 ---
 
 ## 🛠 Tech Stack  
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
-[![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://react.dev/)  
-[![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)   
-[![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)  
+
+<p align="left">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
+  <a href="https://redux.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  </a>
+</p>
 
 **Learning:**  
-[![Zustand](https://img.shields.io/badge/Zustand-%2320232a.svg?style=flat&logo=react&logoColor=white)](https://docs.pmnd.rs/zustand/getting-started/introduction)  
-[![React Native](https://img.shields.io/badge/React_Native-20232a.svg?style=flat&logo=react&logoColor=%2361DAFB)](https://reactnative.dev/)  
+
+<p align="left">
+  <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank">
+    <img src="https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+</p>
 
 ---
 
 ## 📌 Featured Projects  
-- [CocktailsHub](https://github.com/yuri1901/CocktailsHub) — Cocktails application 
+- [CocktailsHub](https://github.com/yuri1901/CocktailsHub) — Cocktails application  
 
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuri1901&theme=tokyonight" alt="GitHub Streak" />
+</p>
