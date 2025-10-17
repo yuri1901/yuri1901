@@ -2,8 +2,8 @@
 
 ## 🚀 About Me  
 - Frontend Developer passionate about building modern, responsive web applications  
-- Confident with **React, TypeScript, Tailwind CSS**  
-- Currently learning **Redux, Zustand, React Native, Next.js**  
+- Confident with **Tailwind CSS, TypeScript, React, Next.js**  
+- Currently learning **React Native**  
 - Open to collaboration and interesting projects  
 - Contact: [urabuchko10@gmail.com](mailto:urabuchko10@gmail.com)  
 
@@ -27,14 +27,14 @@
   <a href="https://redux.js.org/" target="_blank">
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   </a>
+  <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank">
+    <img src="https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
 </p>
 
 **Learning:**  
 
 <p align="left">
-  <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank">
-    <img src="https://img.shields.io/badge/Zustand-20232A?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </a>
@@ -44,9 +44,3 @@
 
 ## 📌 Featured Projects  
 - [CocktailsHub](https://github.com/yuri1901/CocktailsHub) — Cocktails application  
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuri1901&theme=tokyonight" alt="GitHub Streak" />
-</p>
