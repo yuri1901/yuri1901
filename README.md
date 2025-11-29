@@ -43,4 +43,4 @@
 ---
 
 ## 📌 Featured Projects  
-- [CocktailsHub](https://github.com/yuri1901/CocktailsHub) — Cocktails application  
+
