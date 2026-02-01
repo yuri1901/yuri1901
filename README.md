@@ -68,14 +68,3 @@
 
 ---
 
-## 📊 GitHub Analytics (u8views)
-
-<p align="left">
-  <img src="https://u8views.com/api/v1/github/profiles/YOUR_GITHUB_USERNAME/views/per-day.svg" />
-  <img src="https://u8views.com/api/v1/github/profiles/YOUR_GITHUB_USERNAME/views/per-week.svg" />
-</p>
-
-<p align="left">
-  <img src="https://u8views.com/api/v1/github/profiles/YOUR_GITHUB_USERNAME/views/per-month.svg" />
-  <img src="https://u8views.com/api/v1/github/profiles/YOUR_GITHUB_USERNAME/views/total.svg" />
-</p>
