@@ -1,13 +1,4 @@
-<!-- ===== TOP BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20%F0%9F%91%8B%20I'm%20Yura%20Buchko&fontAlign=50&fontAlignY=40&fontSize=48&color=0:020617,100:0f172a" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=2500&pause=600&center=true&vCenter=true&width=650&color=38BDF8&lines=Fullstack+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+Tailwind;Node.js+%7C+Express+%7C+PostgreSQL;Open+to+collaboration+%26+cool+projects" />
-</p>
 
-
----
 
 ## 👨‍💻 About Me
 - Fullstack Developer (React / Next.js / Node.js)
