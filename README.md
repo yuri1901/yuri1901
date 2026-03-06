@@ -5,12 +5,6 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Node.js+%E2%80%A2+Express+%E2%80%A2+Prisma;PostgreSQL+%E2%80%A2+Clean+UI+%E2%80%A2+Scalable+Apps"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Node.js+%E2%80%A2+Express+%E2%80%A2+Prisma;PostgreSQL+%E2%80%A2+Clean+UI+%E2%80%A2+Scalable+Apps"
     alt="Typing SVG"
   />
 </p>
