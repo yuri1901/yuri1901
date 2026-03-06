@@ -1,8 +1,10 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=24,20,17,16,12&text=Yurii%20Buchko&fontSize=52&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn"
-    width="100%"
-    alt="Header"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Node.js+%E2%80%A2+Express+%E2%80%A2+Prisma;PostgreSQL+%E2%80%A2+Clean+UI+%E2%80%A2+Scalable+Apps"
   />
 </p>
 
