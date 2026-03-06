@@ -1,32 +1,45 @@
-<img src="./japan-header.png" width="100%" alt="Japanese style header" />
-
-<h1 align="center">Yurii / SynapseTotalOverload</h1>
-
 <p align="center">
-  Frontend-Focused Full-Stack Developer
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=24,20,17,16,12&text=Yurii%20Buchko&fontSize=52&fontAlignY=38&desc=Frontend-Focused%20Full-Stack%20Developer&descAlignY=58&animation=fadeIn"
+    width="100%"
+    alt="Header"
+  />
 </p>
 
 <p align="center">
-  TypeScript • React • Next.js • Node.js • Express • Prisma • PostgreSQL
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;Node.js+%E2%80%A2+Express+%E2%80%A2+Prisma;PostgreSQL+%E2%80%A2+Clean+UI+%E2%80%A2+Scalable+Apps"
+    alt="Typing SVG"
+  />
+</p>
+
+<h3 align="center">Building modern web apps with clean frontend architecture and solid backend foundations</h3>
+
+<p align="center">
+  <a href="https://github.com/SynapseTotalOverload">
+    <img src="https://img.shields.io/badge/GitHub-SynapseTotalOverload-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
+  </a>
 </p>
 
 ---
 
-## 侍 About Me
+## About me
 
-I build modern web applications with a strong focus on frontend architecture, clean UI, and scalable full-stack solutions.
-
-- Building responsive and polished interfaces with **React** and **Next.js**
-- Creating backend APIs with **Node.js**, **Express**, and **Prisma**
-- Working with **PostgreSQL** for structured and reliable data
-- Focusing on clean code, maintainable architecture, and real product thinking
+- Frontend-focused Full-Stack Developer
+- I work mostly with **TypeScript, React, Next.js**
+- On the backend I use **Node.js, Express, Prisma**
+- For data layer I work with **PostgreSQL**
+- I like clean UI, scalable structure, and production-ready code
 
 ---
 
-## 桜 Core Stack
+## Core stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,prisma,postgres" />
+  <img
+    src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,prisma,postgres"
+    alt="Core Stack"
+  />
 </p>
 
 <p align="center">
@@ -41,44 +54,68 @@ I build modern web applications with a strong focus on frontend architecture, cl
 
 ---
 
-## 富士 What I Work On
+## What I do
 
 <div align="center">
 
-| Focus | Description |
+| Area | Description |
 |---|---|
-| Frontend | Building responsive, modern, and user-focused interfaces |
-| Full-Stack | Connecting elegant frontend experiences with reliable backend systems |
-| Architecture | Creating scalable project structures and developer-friendly codebases |
+| Frontend | Responsive, modern, user-focused interfaces |
+| Full-Stack | Connecting polished UI with reliable backend logic |
+| Architecture | Clean project structure and maintainable codebases |
+| Backend | REST APIs, database design, ORM flows, auth logic |
 
 </div>
 
 ---
 
-## 技 Toolbox
+## Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,express,prisma,postgres,git,github,vscode,figma" />
+  <img
+    src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,prisma,postgres,tailwind,git,github,vscode,figma"
+    alt="Toolbox"
+  />
 </p>
 
 ---
 
-## 火 GitHub Stats
+## GitHub analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SynapseTotalOverload&show_icons=true&hide_border=true&title_color=d11f1f&icon_color=d11f1f&text_color=222222&bg_color=ffffff" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=SynapseTotalOverload&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="GitHub stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SynapseTotalOverload&layout=compact&hide_border=true&langs_count=8"
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SynapseTotalOverload&hide_border=true&ring=d11f1f&fire=d11f1f&currStreakLabel=d11f1f&background=ffffff&stroke=e5e5e5&sideNums=222222&currStreakNum=222222&sideLabels=222222&dates=666666" />
+  <img
+    src="https://streak-stats.demolab.com?user=SynapseTotalOverload&hide_border=true"
+    alt="GitHub streak"
+  />
 </p>
 
 ---
 
-## 連 Contact
+## Philosophy
 
 <p align="center">
-  <a href="https://github.com/SynapseTotalOverload">GitHub</a>
+  <i>Clean code. Thoughtful UI. Real-world products.</i>
 </p>
 
-<img src="./japan-footer.png" width="100%" alt="Japanese style footer" />
+---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=24,20,17,16,12"
+    width="100%"
+    alt="Footer"
+  />
+</p>
