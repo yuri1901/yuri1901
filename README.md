@@ -11,12 +11,6 @@
 
 <h3 align="center">Building modern web apps with clean frontend architecture and solid backend foundations</h3>
 
-<p align="center">
-  <a href="https://github.com/SynapseTotalOverload">
-    <img src="https://img.shields.io/badge/GitHub-SynapseTotalOverload-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
-  </a>
-</p>
-
 ---
 
 ## About me
