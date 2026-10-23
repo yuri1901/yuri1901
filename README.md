@@ -1,3 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+  <a href="https://github.com/samadpls/Programing-Gifs">
+    <img src="https://programing-gifs.vercel.app/" width="300" alt="samadpls/Programming-Gifs">
+  </a>
 </p>
